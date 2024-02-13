@@ -1,0 +1,12 @@
+{
+  "name": "valentine-web-app",
+  "version": "1.0.0",
+  "description": "This web-app is for valentines day. Website is meant to build and re-modify.",
+  "main": "sounds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Palaganas",
+  "license": "ISC"
+}
